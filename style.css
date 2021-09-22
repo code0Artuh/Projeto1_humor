@@ -27,7 +27,7 @@ h3{
     color: white;
 }
 
-#agni{
+#agni img{
 filter: grayscale();
 width: 200px;
 height: 200px;
@@ -38,7 +38,7 @@ margin-bottom: 1rem;
 transition: filter 0.4s ease-in-out;	
 }
 
-#agni:hover{
+#agni img:hover{
 filter: none;
 }
 
