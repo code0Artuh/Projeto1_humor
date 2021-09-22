@@ -27,10 +27,6 @@ h3{
     color: white;
 }
 
-.random{
-    align-items: center
-}
-
 #agni img{
 filter: grayscale();
 width: 200px;
