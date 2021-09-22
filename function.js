@@ -6,7 +6,7 @@
     ];
     var humor = [
         'Triste',
-        'Puto',
+        'Bravo',
         'Feliz'
     ];
     function trocar(){
