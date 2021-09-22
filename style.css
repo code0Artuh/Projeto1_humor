@@ -31,7 +31,7 @@ h3{
     align-items: center;
 }
 
-#agni img{
+#agni{
 filter: grayscale();
 width: 200px;
 height: 200px;
@@ -42,6 +42,6 @@ margin-bottom: 1rem;
 transition: filter 0.4s ease-in-out;
 }
 
-#agni img:hover{
+#agni:hover{
 	filter: none;
 }
