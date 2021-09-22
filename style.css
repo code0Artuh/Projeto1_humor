@@ -29,6 +29,7 @@ h3{
 
 .random{
     align-items: center;
+    cursor: pointer;
 }
 
 #agni img{
