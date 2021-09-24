@@ -13,7 +13,7 @@ html {
 body{
     background: url(https://images7.alphacoders.com/316/thumb-1920-316707.jpg);
     background-size: cover;
-    background-repeat: repeat;
+    background-repeat: repeat-y;
 }
 
 
