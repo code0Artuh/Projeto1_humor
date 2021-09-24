@@ -12,12 +12,12 @@ html {
 
 body{
     background: url(https://images7.alphacoders.com/316/thumb-1920-316707.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
 }
 
 
 h1{
-    width: 1920px;
     height: 50px;
 	box-shadow: 2px 2px;
     background-color: white;
