@@ -11,6 +11,8 @@ html {
   }
 
 body{
+    display: flex;
+    justify-content: center;
     background: url(https://wallpapercave.com/wp/wp4726440.jpg);
     background-color: black;
 }
