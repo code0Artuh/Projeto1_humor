@@ -2,11 +2,13 @@
     var ImgSrcArray = [
     'triste1.jpg',
     'bravo1.jpg',
+    'lisa1.jpg',   
     'feliz1.jpg'
     ];
     var humor = [
         'Triste',
         'Puto',
+        'Chapada',
         'Feliz'
     ];
     function trocar(){
